@@ -1,0 +1,6 @@
+{
+  "name": "STUDIO.FORM Automotive Design Lab",
+  "description": "High-performance automotive design lab, bespoke PPF, bodykits, and motorsport engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
